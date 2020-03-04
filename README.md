@@ -28,3 +28,4 @@ We issued our first challenge in S2E3, and many folks are responding with their 
 - [Victor S. Melo](https://github.com/vctrsmelo/Breathe-Animation-Replica)
 - [Daniel Tavares](https://github.com/vibrazy/SwiftOverCoffee3Challenge-BreathingApp)
 - [Aaron Kreipe](https://github.com/AaronKreipe/Breathe)
+- [Adrian Bilescu](https://github.com/diti223/BreatheFlower)
