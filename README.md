@@ -24,3 +24,4 @@ We issued our first challenge in S2E3, and many folks are responding with their 
 - [Pratik Jamariya](https://github.com/Pratik948/BreatheAppChallenge)
 - [Fernando Bunn](https://github.com/Bunn/BreatheView)
 - [Joss Manger](https://gist.github.com/jwamin/5a3153f00fae86b10e5ec107d2368156)
+- [Chris Parker](https://github.com/ChrisParkerWA/Breathe)
