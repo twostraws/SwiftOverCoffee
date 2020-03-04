@@ -16,6 +16,7 @@ We issued our first challenge in S2E3, and many folks are responding with their 
 
 **Solutions:**
 
+- [Daniel Tavares](https://github.com/vibrazy/SwiftOverCoffee3Challenge-BreathingApp)
 - [Morten Bek Ditlevsen](https://github.com/mortenbekditlevsen/SwiftOverCoffee3Challenge)
 - [Mogens Egeskov](https://github.com/mogens9/BreatheAnimation)
 - [Dan O'Leary](https://github.com/GeoMod/ProjectBreathe)
