@@ -33,3 +33,4 @@ We issued our first challenge in S2E3, and many folks are responding with their 
 - [Guillaume A.](https://github.com/clarknt/swiftovercoffee-breathe-challenge)
 - [Ryan Off](https://github.com/ryanoff/BreatheChallenge)
 - [Simon Salomons](https://github.com/Smongo/breathe-over-coffee)
+- [Shawn Gee](https://github.com/swift-student/breathe-imitation)
