@@ -34,3 +34,4 @@ We issued our first challenge in S2E3, and many folks are responding with their 
 - [Ryan Off](https://github.com/ryanoff/BreatheChallenge)
 - [Simon Salomons](https://github.com/Smongo/breathe-over-coffee)
 - [Shawn Gee](https://github.com/swift-student/breathe-imitation)
+- [Gualtiero Frigerio](https://github.com/gualtierofrigerio/BreatheAnimation)
