@@ -14,7 +14,10 @@ We issued our first challenge in S2E3, and many folks are responding with their 
 
 [The challenge](https://twitter.com/swiftovercoffee/status/1234417974137802754?s=20): can you recreate the Breathe app's animation in under an hour?
 
-**Solutions:**
+- [Erica](https://gist.github.com/erica/fd7b9b41c69c745d7e0553dd4cba1c91)
+- [Paul](https://gist.github.com/twostraws/c69e4080099ae7ac45bfd9b1e15a4269)
+
+**Community solutions:**
 
 - [Morten Bek Ditlevsen](https://github.com/mortenbekditlevsen/SwiftOverCoffee3Challenge)
 - [Mogens Egeskov](https://github.com/mogens9/BreatheAnimation)
